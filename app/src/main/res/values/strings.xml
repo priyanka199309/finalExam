@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">finalExam</string>
+    <string name="EnterEmail">EnterEmail</string>
+    <string name="Subject">Enter Subject</string>
+    <string name="Body">Enter Body</string>
+    <string name="Password">EnterPassword</string>
+
+
+    //error message
+    <string name="input_error_firstname" color="#F2F2F2" >Please enter First Name</string>
+    <string name="input_error_Lastname">Please enter Last Name</string>
+    <string name="input_error_email">Please enter Email </string>
+    <string name="input_error_password">Please enter Password </string>
+    <string name="input_error_Confirmpassword">Please enter same password as previous </string>
+    <string name="input_error_phone">Please enter Phone </string>
+    <string name="input_error_password_length">password should be atleast 6 characters long</string>
+    <string name="input_error_phone_invalid">enter a valid 10 digit phone number</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="input_error_email_invalid">enter a valid email</string>
+    <string name="input_error_body">enter body</string>
+    <string name="input_error_subject">enter subject</string>
+
+</resources>
